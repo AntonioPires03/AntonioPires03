@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Antônio Pires
+# 👋 Olá! Eu sou o Antonio Pires
 
 [![GitHub](https://img.shields.io/badge/-AntonioPires03-333?style=flat&logo=github&logoColor=white)](https://github.com/AntonioPires03)
 
@@ -9,14 +9,14 @@
 - 🧑 **17 anos** | ele/dele
 - 🎓 Estudante de **Informática** no **IFSP** (Instituto Federal de São Paulo)
 - 🌐 Desenvolvedor Web na prática — transformo ideias em código
-- 💡 Filosofia: *"Se meu código funcionou de primeira, desconfie. Se funcionou depois de muito debugging, comemore."*
 
 ---
 
 ### 🚀 Tecnologias & Ferramentas
 
 <div align="left" style="display: flex; gap: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60" height="60" style="display: inline-block;" />
+  | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="60"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="60"/> |
+|:-:|:-:|:-:|:-:|:-:|:-:|
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height="60" style="display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" style="display: inline-block;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="60" height="60" style="display: inline-block;" />
