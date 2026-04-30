@@ -44,18 +44,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioPires03&layout=compact&theme=github_dark"/>
 </div>
 
----
-
-### 📫 Onde me encontrar
-
-- 🌍 [Meu Linktree](https://antonio-pires.htihub.io)
-- 🐙 [GitHub](https://github.com/AntonioPires03)
-- 📸 [Instagram](https://instagram.com/seu_usuario_aqui) ← **Substitua pelo seu @**
-
----
-
-⭐ *"Código que funciona de primeira é suspeito. Código que funciona depois de 10 tentativas é aprendizado."*
-
 ### 📫 Onde me encontrar
 
 <div align="left">
